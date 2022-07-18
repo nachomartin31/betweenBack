@@ -26,6 +26,7 @@ async function deleteData({query}, res){
 async function createData({body}, res){
     try {
         const newWeatherEntry = await weatherData.create(body);
+        if(!newWeatherEntry){res.status(403).json({message: "Bad request"})}
         res.status(201).json(newWeatherEntry)
     } catch (error) {
         serverError(res);
