@@ -1,24 +1,26 @@
 const {model, Schema} = require('mongoose');
 
-const locationSchema = Schema({
-    city: String,
-    country: String
-})
 
-const temperatureSchema = Schema({
-    celsius: Number,
-    farenheit: Number
-})
-const windSchema = Schema({
-    metric: Number,
-    imperial: Number
-})
+
 const weatherDataSchema = Schema({
-    location: locationSchema,
-    date: Date,
-    hourlyTemperature: [temperatureSchema],
-    averageTemperature: [temperatureSchema],
-    averageWindSpeed: [windSchema],
+    location: {
+        city: String,
+        country: String
+    },
+    date: String,
+    hourlyTemperature: [
+        {
+        celsius: Number,
+        farenheit: Number
+    }],
+    averageTemperature:    {
+        celsius: Number,
+        farenheit: Number
+    },
+    averageWindSpeed: {
+        metric: Number,
+        imperial: Number
+    },
     weatherType: String,
     
 })
