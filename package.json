@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watchAll --collect-coverage",
     "start": "nodemon index.js"
   },
   "author": "Nacho Martín",
@@ -14,6 +14,7 @@
     "debug": "^4.3.4",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "jest": "^27.5.1",
     "mongoose": "^6.4.4",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.19"
