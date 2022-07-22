@@ -13,7 +13,7 @@ const weatherDataSchema = Schema({
         celsius: Number,
         farenheit: Number
     }],
-    averageTemperature:    {
+    averageTemperature: {
         celsius: Number,
         farenheit: Number
     },
