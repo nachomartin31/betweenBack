@@ -10,7 +10,8 @@ describe("Given a getData function", ()=>{
     describe("When invoked with valid arguments", ()=>{
         beforeEach(()=>{
             req = {
-                body:{}
+                body:{ },
+                query:{}
             };
               res = {
                 json: jest.fn(),
