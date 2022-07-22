@@ -1,0 +1,2261 @@
+[{
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "date": "26-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 31,
+    "farenheit": 90
+  },
+  "weatherType": "Sunny",
+  "averageWindSpeed": {
+    "metric": "12",
+    "imperial": "5"
+  }
+},{
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "date": "29-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 31,
+    "farenheit": 87
+  },
+  "weatherType": "Windy",
+  "averageWindSpeed": {
+    "metric": 36,
+    "imperial": 20
+  }
+},{
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "date": "28-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 34,
+    "farenheit": 91
+  },
+  "weatherType": "Cloudy",
+  "averageWindSpeed": {
+    "metric": 25,
+    "imperial": 15
+  }
+},{
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "date": "26-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 28,
+    "farenheit": 84
+  },
+  "weatherType": "Sunny",
+  "averageWindSpeed": {
+    "metric": "12",
+    "imperial": "5"
+  }
+},{
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "date": "25-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 34,
+    "farenheit": 93
+  },
+  "weatherType": "Windy",
+  "averageWindSpeed": {
+    "metric": 32,
+    "imperial": 18
+  }
+},{
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "date": "28-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 29,
+    "farenheit": 88
+  },
+  "weatherType": "Cloudy",
+  "averageWindSpeed": {
+    "metric": 18,
+    "imperial": 9
+  }
+},{
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "date": "29-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 31,
+    "farenheit": 94
+  },
+  "averageWindSpeed": {
+    "metric": 34,
+    "imperial": 19
+  },
+  "weatherType": "Windy"
+},{
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "date": "27-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 27,
+    "farenheit": 84
+  },
+  "weatherType": "Cloudy",
+  "averageWindSpeed": {
+    "metric": "21",
+    "imperial": "6"
+  }
+},{
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": "27-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 27,
+    "farenheit": 84
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": "21",
+    "imperial": "6"
+  }
+},{
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "date": "28-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 29,
+    "farenheit": 88
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": 18,
+    "imperial": 9
+  }
+},{
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "date": "25-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 33,
+    "farenheit": 68
+  },
+  "weatherType": "Windy",
+  "averageWindSpeed": {
+    "metric": 35,
+    "imperial": 21
+  }
+},{
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "date": "26-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 32,
+      "farenheit": 68
+    },
+    {
+      "celsius": 30,
+      "farenheit": 67
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 33,
+      "farenheit": 68
+    },
+    {
+      "celsius": 34,
+      "farenheit": 69
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 33,
+    "farenheit": 68
+  },
+  "averageWindSpeed": {
+    "metric": 38,
+    "imperial": 21
+  },
+  "weatherType": "Windy"
+},{
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": "29-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 27,
+    "farenheit": 86
+  },
+  "averageWindSpeed": {
+    "metric": 15,
+    "imperial": 4
+  },
+  "weatherType": "Sunny"
+},{
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "date": "27-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 33,
+    "farenheit": 88
+  },
+  "weatherType": "Sunny",
+  "averageWindSpeed": {
+    "metric": 18,
+    "imperial": 9
+  }
+},{
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "date": "29-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 31,
+    "farenheit": 94
+  },
+  "averageWindSpeed": {
+    "metric": 34,
+    "imperial": 19
+  },
+  "weatherType": "Windy"
+},{
+  "location": {
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  "date": "27-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 27,
+    "farenheit": 84
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": "21",
+    "imperial": "6"
+  }
+},{
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": "25-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 24,
+    "farenheit": 75
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": 18,
+    "imperial": 6
+  }
+},{
+  "location": {
+    "city": "New York",
+    "country": "USA"
+  },
+  "date": "25-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 34,
+    "farenheit": 93
+  },
+  "weatherType": "Windy",
+  "averageWindSpeed": {
+    "metric": 32,
+    "imperial": 18
+  }
+},{
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": "28-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 29,
+    "farenheit": 88
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": 18,
+    "imperial": 9
+  }
+},{
+  "location": {
+    "city": "London",
+    "country": "UK"
+  },
+  "date": "26-07-2022",
+  "hourlyTemperature": [
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 89
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 34,
+      "farenheit": 85
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 85
+    },
+    {
+      "celsius": 33,
+      "farenheit": 84
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 85
+    },
+    {
+      "celsius": 32,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 89
+    },
+    {
+      "celsius": 34,
+      "farenheit": 87
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 32,
+      "farenheit": 88
+    },
+    {
+      "celsius": 30,
+      "farenheit": 87
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 33,
+      "farenheit": 88
+    },
+    {
+      "celsius": 34,
+      "farenheit": 89
+    }
+  ],
+  "averageTemperature": {
+    "celsius": 23,
+    "farenheit": 78
+  },
+  "weatherType": "Rainy",
+  "averageWindSpeed": {
+    "metric": "12",
+    "imperial": "5"
+  }
+}]
