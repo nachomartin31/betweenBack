@@ -1,5 +1,6 @@
 # Between Backend
 This repo is the backend side of between react/node challenge and it's connected to MongoDB.
+Documents on DDBB must follow the data model provided on the file weatherDataModel.js, on models directory.
 
 ## Install
 * Clone this repo
